@@ -12,3 +12,7 @@ If you'd like to stay connected or dive deeper, you can:
 * Sign up for a [free Elastic training](https://www.elastic.co/training?utm_source=github&utm_campaign=meetup-followup-cm)
 
 
+## Add Your Slides
+
+After speaking at an Elastic meetup, send us a pull request with your slides — ideally exported as a PDF — under `city-name/date_short-title.pdf` like `San-Francisco/2026-01-16_vector-search.pdf`.
+
